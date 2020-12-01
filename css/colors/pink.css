@@ -1,0 +1,112 @@
+@charset "utf-8";
+/* CSS Document */
+
+a {
+color: #ff3e91;
+}
+
+p a {
+color: #ff3e91;
+}
+
+h5 {
+color: #ff3e91;
+}
+
+#main-menu {
+background: rgba(255,62,145, .95);
+}
+
+@-webkit-keyframes glow {
+    0% {
+		border-color: #ff3e91;
+		/* box-shadow: 0 0 5px rgba(0,0,0, .2), inset 0 0 5px rgba(0,0,0, .1); */
+    }	
+    100% {
+		border-color: #ff3e91;
+		/* box-shadow: 0 0 20px rgba(0,0,0, .6), inset 0 0 10px rgba(0,0,0, .4); */
+    }
+}
+@-moz-keyframes glow {
+    0% {
+		border-color: #ff3e91;
+		/* box-shadow: 0 0 5px rgba(0,0,0, .2), inset 0 0 5px rgba(0,0,0, .1); */
+    }	
+    100% {
+		border-color: #ff3e91;
+		/* box-shadow: 0 0 20px rgba(0,0,0, .6), inset 0 0 10px rgba(0,0,0, .4); */
+    }
+}
+@-o-keyframes glow {
+    0% {
+		border-color: #ff3e91;
+		/* box-shadow: 0 0 5px rgba(0,0,0, .2), inset 0 0 5px rgba(0,0,0, .1); */
+    }	
+    100% {
+		border-color: #ff3e91;
+		/* box-shadow: 0 0 20px rgba(0,0,0, .6), inset 0 0 10px rgba(0,0,0, .4); */
+    }
+}
+@-ms-keyframes glow {
+    0% {
+		border-color: #ff3e91;
+		/* box-shadow: 0 0 5px rgba(0,0,0, .2), inset 0 0 5px rgba(0,0,0, .1); */
+    }	
+    100% {
+		border-color: #ff3e91;
+		/* box-shadow: 0 0 20px rgba(0,0,0, .6), inset 0 0 10px rgba(0,0,0, .4); */
+    }
+}
+@keyframes glow {
+    0% {
+		border-color: #ff3e91;
+		/* box-shadow: 0 0 5px rgba(0,0,0, .2), inset 0 0 5px rgba(0,0,0, .1); */
+    }	
+    100% {
+		border-color: #ff3e91;
+		/* box-shadow: 0 0 20px rgba(0,0,0, .6), inset 0 0 10px rgba(0,0,0, .4); */
+    }
+}
+
+.submit-button {
+color: #fff;
+background: #fff;
+}
+
+.submit-button::before {
+color: #fff;
+background: #ff3e91;
+}
+
+.submit-button:hover {
+color: #000;
+background: #fff;
+}
+
+.submit-button-2 {
+color: #fff;
+background: #fff;
+}
+
+.submit-button-2::before {
+color: #fff;
+background: #ff3e91;
+}
+
+.submit-button-2:hover {
+color: #000;
+background: #fff;
+}
+
+.owl-page.active span {    
+background: #ff3e91;
+}
+
+.expand { 
+background: #ff3e91;
+}
+
+/* Styleswitch [DEMO only] */
+.options-head {
+background: #ff3e91;
+}
